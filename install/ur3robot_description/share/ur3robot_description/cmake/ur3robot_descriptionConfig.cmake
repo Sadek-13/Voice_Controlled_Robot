@@ -1,0 +1,1 @@
+/home/golam_sadek/ur3robot_ws/build/ur3robot_description/ament_cmake_core/ur3robot_descriptionConfig.cmake
