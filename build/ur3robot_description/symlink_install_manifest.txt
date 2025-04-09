@@ -12,6 +12,8 @@
 /home/golam_sadek/ur3robot_ws/install/ur3robot_description/share/ur3robot_description/meshes/triangular_link.STL
 /home/golam_sadek/ur3robot_ws/install/ur3robot_description/share/ur3robot_description/meshes/vertical_drive_arm.STL
 /home/golam_sadek/ur3robot_ws/install/ur3robot_description/share/ur3robot_description/urdf/ur3robot.urdf.xacro
+/home/golam_sadek/ur3robot_ws/install/ur3robot_description/share/ur3robot_description/launch/display.launch.py
+/home/golam_sadek/ur3robot_ws/install/ur3robot_description/share/ur3robot_description/rviz/display.rviz
 /home/golam_sadek/ur3robot_ws/install/ur3robot_description/share/ament_index/resource_index/package_run_dependencies/ur3robot_description
 /home/golam_sadek/ur3robot_ws/install/ur3robot_description/share/ament_index/resource_index/parent_prefix_path/ur3robot_description
 /home/golam_sadek/ur3robot_ws/install/ur3robot_description/share/ur3robot_description/environment/ament_prefix_path.sh

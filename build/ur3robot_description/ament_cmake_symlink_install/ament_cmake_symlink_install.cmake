@@ -310,8 +310,8 @@ message(STATUS "Execute custom install script")
 
 # begin of custom install code
 
-# install(DIRECTORY "meshes" "urdf" "DESTINATION" "share/ur3robot_description")
-ament_cmake_symlink_install_directory("/home/golam_sadek/ur3robot_ws/src/ur3robot_description" DIRECTORY "meshes" "urdf" "DESTINATION" "share/ur3robot_description")
+# install(DIRECTORY "meshes" "urdf" "launch" "rviz" "DESTINATION" "share/ur3robot_description")
+ament_cmake_symlink_install_directory("/home/golam_sadek/ur3robot_ws/src/ur3robot_description" DIRECTORY "meshes" "urdf" "launch" "rviz" "DESTINATION" "share/ur3robot_description")
 
 # install(FILES "/home/golam_sadek/ur3robot_ws/build/ur3robot_description/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/ur3robot_description" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")
 ament_cmake_symlink_install_files("/home/golam_sadek/ur3robot_ws/src/ur3robot_description" FILES "/home/golam_sadek/ur3robot_ws/build/ur3robot_description/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/ur3robot_description" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")
