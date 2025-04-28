@@ -12,6 +12,8 @@
 /home/golam_sadek/ur3robot_ws/install/ur3robot_description/share/ur3robot_description/meshes/triangular_link.STL
 /home/golam_sadek/ur3robot_ws/install/ur3robot_description/share/ur3robot_description/meshes/vertical_drive_arm.STL
 /home/golam_sadek/ur3robot_ws/install/ur3robot_description/share/ur3robot_description/urdf/ur3robot.urdf.xacro
+/home/golam_sadek/ur3robot_ws/install/ur3robot_description/share/ur3robot_description/urdf/ur3robot_gazebo.xacro
+/home/golam_sadek/ur3robot_ws/install/ur3robot_description/share/ur3robot_description/urdf/ur3robot_ros2_control.xacro
 /home/golam_sadek/ur3robot_ws/install/ur3robot_description/share/ur3robot_description/launch/display.launch.py
 /home/golam_sadek/ur3robot_ws/install/ur3robot_description/share/ur3robot_description/launch/gazebo.launch.py
 /home/golam_sadek/ur3robot_ws/install/ur3robot_description/share/ur3robot_description/rviz/display.rviz
