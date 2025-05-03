@@ -1,0 +1,47 @@
+[0.013s] Invoking command in '/home/golam_sadek/ur3robot_ws/src/ur3robot_controller/build/ur3robot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/golam_sadek/turtlebot3_drlnav/install/turtlebot3_drl:/opt/ros/humble /usr/bin/cmake /home/golam_sadek/ur3robot_ws/src/ur3robot_controller -DCMAKE_INSTALL_PREFIX=/home/golam_sadek/ur3robot_ws/src/ur3robot_controller/install/ur3robot_controller
+[0.175s] -- The C compiler identification is GNU 11.4.0
+[0.284s] -- The CXX compiler identification is GNU 11.4.0
+[0.295s] -- Detecting C compiler ABI info
+[0.375s] -- Detecting C compiler ABI info - done
+[0.381s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.383s] -- Detecting C compile features
+[0.383s] -- Detecting C compile features - done
+[0.386s] -- Detecting CXX compiler ABI info
+[0.464s] -- Detecting CXX compiler ABI info - done
+[0.471s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.471s] -- Detecting CXX compile features
+[0.471s] -- Detecting CXX compile features - done
+[0.489s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.668s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.945s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.096s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.096s] -- Configured cppcheck include dirs: 
+[1.096s] -- Configured cppcheck exclude dirs and/or files: 
+[1.100s] -- Added test 'lint_cmake' to check CMake code style
+[1.105s] -- Added test 'uncrustify' to check C / C++ code style
+[1.105s] -- Configured uncrustify additional arguments: 
+[1.106s] -- Added test 'xmllint' to check XML markup files
+[1.114s] -- Configuring done
+[1.116s] -- Generating done
+[1.118s] -- Build files have been written to: /home/golam_sadek/ur3robot_ws/src/ur3robot_controller/build/ur3robot_controller
+[1.122s] Invoked command in '/home/golam_sadek/ur3robot_ws/src/ur3robot_controller/build/ur3robot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/golam_sadek/turtlebot3_drlnav/install/turtlebot3_drl:/opt/ros/humble /usr/bin/cmake /home/golam_sadek/ur3robot_ws/src/ur3robot_controller -DCMAKE_INSTALL_PREFIX=/home/golam_sadek/ur3robot_ws/src/ur3robot_controller/install/ur3robot_controller
+[1.124s] Invoking command in '/home/golam_sadek/ur3robot_ws/src/ur3robot_controller/build/ur3robot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/golam_sadek/turtlebot3_drlnav/install/turtlebot3_drl:/opt/ros/humble /usr/bin/cmake --build /home/golam_sadek/ur3robot_ws/src/ur3robot_controller/build/ur3robot_controller -- -j8 -l8
+[1.164s] Invoked command in '/home/golam_sadek/ur3robot_ws/src/ur3robot_controller/build/ur3robot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/golam_sadek/turtlebot3_drlnav/install/turtlebot3_drl:/opt/ros/humble /usr/bin/cmake --build /home/golam_sadek/ur3robot_ws/src/ur3robot_controller/build/ur3robot_controller -- -j8 -l8
+[1.174s] Invoking command in '/home/golam_sadek/ur3robot_ws/src/ur3robot_controller/build/ur3robot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/golam_sadek/turtlebot3_drlnav/install/turtlebot3_drl:/opt/ros/humble /usr/bin/cmake --install /home/golam_sadek/ur3robot_ws/src/ur3robot_controller/build/ur3robot_controller
+[1.182s] -- Install configuration: ""
+[1.182s] -- Installing: /home/golam_sadek/ur3robot_ws/src/ur3robot_controller/install/ur3robot_controller/share/ament_index/resource_index/package_run_dependencies/ur3robot_controller
+[1.182s] -- Installing: /home/golam_sadek/ur3robot_ws/src/ur3robot_controller/install/ur3robot_controller/share/ament_index/resource_index/parent_prefix_path/ur3robot_controller
+[1.182s] -- Installing: /home/golam_sadek/ur3robot_ws/src/ur3robot_controller/install/ur3robot_controller/share/ur3robot_controller/environment/ament_prefix_path.sh
+[1.182s] -- Installing: /home/golam_sadek/ur3robot_ws/src/ur3robot_controller/install/ur3robot_controller/share/ur3robot_controller/environment/ament_prefix_path.dsv
+[1.182s] -- Installing: /home/golam_sadek/ur3robot_ws/src/ur3robot_controller/install/ur3robot_controller/share/ur3robot_controller/environment/path.sh
+[1.182s] -- Installing: /home/golam_sadek/ur3robot_ws/src/ur3robot_controller/install/ur3robot_controller/share/ur3robot_controller/environment/path.dsv
+[1.182s] -- Installing: /home/golam_sadek/ur3robot_ws/src/ur3robot_controller/install/ur3robot_controller/share/ur3robot_controller/local_setup.bash
+[1.182s] -- Installing: /home/golam_sadek/ur3robot_ws/src/ur3robot_controller/install/ur3robot_controller/share/ur3robot_controller/local_setup.sh
+[1.182s] -- Installing: /home/golam_sadek/ur3robot_ws/src/ur3robot_controller/install/ur3robot_controller/share/ur3robot_controller/local_setup.zsh
+[1.183s] -- Installing: /home/golam_sadek/ur3robot_ws/src/ur3robot_controller/install/ur3robot_controller/share/ur3robot_controller/local_setup.dsv
+[1.183s] -- Installing: /home/golam_sadek/ur3robot_ws/src/ur3robot_controller/install/ur3robot_controller/share/ur3robot_controller/package.dsv
+[1.183s] -- Installing: /home/golam_sadek/ur3robot_ws/src/ur3robot_controller/install/ur3robot_controller/share/ament_index/resource_index/packages/ur3robot_controller
+[1.183s] -- Installing: /home/golam_sadek/ur3robot_ws/src/ur3robot_controller/install/ur3robot_controller/share/ur3robot_controller/cmake/ur3robot_controllerConfig.cmake
+[1.183s] -- Installing: /home/golam_sadek/ur3robot_ws/src/ur3robot_controller/install/ur3robot_controller/share/ur3robot_controller/cmake/ur3robot_controllerConfig-version.cmake
+[1.183s] -- Installing: /home/golam_sadek/ur3robot_ws/src/ur3robot_controller/install/ur3robot_controller/share/ur3robot_controller/package.xml
+[1.186s] Invoked command in '/home/golam_sadek/ur3robot_ws/src/ur3robot_controller/build/ur3robot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/golam_sadek/turtlebot3_drlnav/install/turtlebot3_drl:/opt/ros/humble /usr/bin/cmake --install /home/golam_sadek/ur3robot_ws/src/ur3robot_controller/build/ur3robot_controller

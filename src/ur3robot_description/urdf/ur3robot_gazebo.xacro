@@ -2,16 +2,14 @@
 <robot xmlns:xacro="https://www.ros.org/wiki/xacro" name="ur3robot">
 
     <gazebo>
-        <xacro:if value="$(arg is_ignition">
+        <xacro:if value="$(arg is_ignition)">
             <plugin filename="ign_ros2_control-system" name="ign_ros2_control::IgnitionROS2ControlPlugin">
-                <parameters>
-
-                </parameters>
+                c
             </plugin>
         </xacro:if>
         <xacro:unless value="$(arg is_ignition)">
             <plugin filename="gz_ros2_control-system" name="gz_ros2_control::GazeboSimROS2ControlPlugin">
-                <parameters></parameters>
+                <parameters>$(find ur3robot_controller)/config/ur3robot_controllers.yaml</parameters>
             </plugin>
         </xacro:unless>
     </gazebo>

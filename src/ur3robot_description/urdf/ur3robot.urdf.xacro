@@ -3,8 +3,8 @@
 <robot xmlns:xacro="https://www.ros.org/wiki/xacro" name="ur3robot">
 
     <xacro:arg name="is_ignition" default="true" />
-    <xacro:include filename="${find ur3robot_description}/urdf/ur3robot_gazebo.xacro"/>
-    <xacro:include filename="${find ur3robot_description}/urdf/ur3robot_ros2_control.xacro"/>
+    <xacro:include filename="$(find ur3robot_description)/urdf/ur3robot_gazebo.xacro"/>
+    <xacro:include filename="$(find ur3robot_description)/urdf/ur3robot_ros2_control.xacro"/>
     
     <xacro:property name="PI" value="3.14159"/>
     <xacro:property name="effort" value="30.0"/>

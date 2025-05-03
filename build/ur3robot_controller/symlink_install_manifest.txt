@@ -1,0 +1,16 @@
+/home/golam_sadek/ur3robot_ws/install/ur3robot_controller/share/ur3robot_controller/config/ur3robot_controllers.yaml
+/home/golam_sadek/ur3robot_ws/install/ur3robot_controller/share/ament_index/resource_index/package_run_dependencies/ur3robot_controller
+/home/golam_sadek/ur3robot_ws/install/ur3robot_controller/share/ament_index/resource_index/parent_prefix_path/ur3robot_controller
+/home/golam_sadek/ur3robot_ws/install/ur3robot_controller/share/ur3robot_controller/environment/ament_prefix_path.sh
+/home/golam_sadek/ur3robot_ws/install/ur3robot_controller/share/ur3robot_controller/environment/ament_prefix_path.dsv
+/home/golam_sadek/ur3robot_ws/install/ur3robot_controller/share/ur3robot_controller/environment/path.sh
+/home/golam_sadek/ur3robot_ws/install/ur3robot_controller/share/ur3robot_controller/environment/path.dsv
+/home/golam_sadek/ur3robot_ws/install/ur3robot_controller/share/ur3robot_controller/local_setup.bash
+/home/golam_sadek/ur3robot_ws/install/ur3robot_controller/share/ur3robot_controller/local_setup.sh
+/home/golam_sadek/ur3robot_ws/install/ur3robot_controller/share/ur3robot_controller/local_setup.zsh
+/home/golam_sadek/ur3robot_ws/install/ur3robot_controller/share/ur3robot_controller/local_setup.dsv
+/home/golam_sadek/ur3robot_ws/install/ur3robot_controller/share/ur3robot_controller/package.dsv
+/home/golam_sadek/ur3robot_ws/install/ur3robot_controller/share/ament_index/resource_index/packages/ur3robot_controller
+/home/golam_sadek/ur3robot_ws/install/ur3robot_controller/share/ur3robot_controller/cmake/ur3robot_controllerConfig.cmake
+/home/golam_sadek/ur3robot_ws/install/ur3robot_controller/share/ur3robot_controller/cmake/ur3robot_controllerConfig-version.cmake
+/home/golam_sadek/ur3robot_ws/install/ur3robot_controller/share/ur3robot_controller/package.xml

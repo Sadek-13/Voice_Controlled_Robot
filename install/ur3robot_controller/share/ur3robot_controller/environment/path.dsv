@@ -1,1 +1,1 @@
-prepend-non-duplicate-if-exists;PATH;bin
+/home/golam_sadek/ur3robot_ws/build/ur3robot_controller/ament_cmake_environment_hooks/path.dsv
