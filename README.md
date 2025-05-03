@@ -96,25 +96,25 @@ source install/setup.bash
 https://github.com/Sadek-13/Voice_Controlled_Robot/tree/main/src/ur3robot_controller/config
 #### →Create a file into the config folder (ur3robot_controllers.yaml)
 https://github.com/Sadek-13/Voice_Controlled_Robot/blob/main/src/ur3robot_controller/config/ur3robot_controllers.yaml
-### Update CMakeLists.txt file
+### →Update CMakeLists.txt file
 ```
 install(
   DIRECTORY config
   DESTINATION share/${PROJECT_NAME}
 )
 ```
-### Update ur3robot_gazebo.xacro file
+### →Update ur3robot_gazebo.xacro file
 ```
 <parameters>
     $(find ur3robot_controller)/config/ur3robot_controllers.yaml
 </parameters>
 ```
-### Update gazebo.launch.py file
+### →Update gazebo.launch.py file
 ```
 is_ignition = "True" if ros_distro == "humble" else "False"
 robot_description = ParameterValue(Command(['xacro ', LaunchConfiguration("model"), " is_ignition:=",is_ignition]), value_type=str)
 ```
-### run below's command on terminal
+### →run below's command on terminal
 ```
 cd ur3robot_controller/
 colcon build
