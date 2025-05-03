@@ -121,6 +121,8 @@ colcon build
 source install setup.bash
 ros2 launch ur3robot_description gazebo.launch.py
 ```
+### →Output(Maintain Pyshics and gravity)
+![Screenshot from 2025-05-03 14-04-18](https://github.com/user-attachments/assets/8c8877cb-6305-40f3-858b-49a80c8d1c2b)
 
 
 
