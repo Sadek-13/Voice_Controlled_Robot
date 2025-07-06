@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/a588d502-85e6-4b17-9324-7c2810708557)
 
-## 1.Visualize UR3 Robot using urdf_tutorial
+## 1.Visualize Manipulator using urdf_tutorial
 ### →Firstly create a workspace
 ```
 cd mkdir -p ur3robot_ws/src 
@@ -36,7 +36,7 @@ ros2 launch urdf_tutorial display.launch.py model:=/home/golam_sadek/ur3robot_ws
 ```
 ![Image](https://github.com/user-attachments/assets/e8f7961e-b7c4-43b1-9e52-edd6684720e7)
 
-## 2.Visualize UR3 Robot without using urdf_tutorial
+## 2.Visualize Manipulator without using urdf_tutorial
 ### →Create a folder as a name of launch into ur3robot_description
 - create a python launch file (display.launch.py)
 - write below's code:
@@ -53,7 +53,7 @@ ros2 launch urdf_tutorial display.launch.py model:=/home/golam_sadek/ur3robot_ws
 
 ![Image](https://github.com/user-attachments/assets/e8f7961e-b7c4-43b1-9e52-edd6684720e7)
 
-## 3.Spawn the UR3 robot into Gazebo
+## 3.Spawn the Manipulator into Gazebo
 ### →Add the collision and inertial tag into the ur3robot.urdf.xacro file
 [image.docx.pdf](https://github.com/user-attachments/files/19685258/image.docx.pdf)
 
